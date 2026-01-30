@@ -1,0 +1,205 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 3500
+>>
+stream
+BT
+/F1 28 Tf
+50 750 Td
+(ATUL MAURYA) Tj
+0 -25 Td
+/F2 16 Tf
+0.2 0.4 0.8 rg
+(Full Stack Developer) Tj
+0 g
+0 -20 Td
+/F3 11 Tf
+(Email: atulanace2015@gmail.com  |  Phone: +91 9084997180) Tj
+0 -12 Td
+(LinkedIn: linkedin.com/in/atul-maurya-b49968338  |  Available for Freelance) Tj
+
+0 -35 Td
+/F1 18 Tf
+0.2 0.2 0.2 rg
+(PROFESSIONAL SUMMARY) Tj
+0 g
+50 680 50 1 re f
+0 -25 Td
+/F3 11 Tf
+(Passionate Full Stack Developer with 2+ years of experience building scalable web) Tj
+0 -12 Td
+(applications. Specialized in React, Next.js, and Node.js with expertise in B2B, B2C,) Tj
+0 -12 Td
+(Education platforms, and eCommerce solutions. Successfully delivered 25+ projects) Tj
+0 -12 Td
+(with 15+ satisfied clients, working independently from conception to deployment.) Tj
+
+0 -35 Td
+/F1 18 Tf
+0.2 0.2 0.2 rg
+(TECHNICAL EXPERTISE) Tj
+0 g
+50 580 50 1 re f
+0 -25 Td
+/F2 12 Tf
+(Frontend Technologies:) Tj
+0 -15 Td
+/F3 11 Tf
+(• React.js, Next.js, TypeScript, JavaScript \(ES6+\)) Tj
+0 -12 Td
+(• HTML5, CSS3, Tailwind CSS, Framer Motion) Tj
+0 -12 Td
+(• Responsive Design, Progressive Web Apps) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Backend Technologies:) Tj
+0 -15 Td
+/F3 11 Tf
+(• Node.js, Express.js, REST APIs, GraphQL) Tj
+0 -12 Td
+(• Authentication, Authorization, JWT) Tj
+0 -12 Td
+(• Socket.io for Real-time Applications) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Database & Tools:) Tj
+0 -15 Td
+/F3 11 Tf
+(• MongoDB, PostgreSQL, MySQL, Redis) Tj
+0 -12 Td
+(• Git, Docker, AWS, Vercel, Netlify) Tj
+0 -12 Td
+(• Figma, VS Code, Postman) Tj
+
+0 -35 Td
+/F1 18 Tf
+0.2 0.2 0.2 rg
+(PROFESSIONAL EXPERIENCE) Tj
+0 g
+50 350 50 1 re f
+0 -25 Td
+/F2 14 Tf
+(Freelance Full Stack Developer) Tj
+0 -15 Td
+/F3 11 Tf
+(2019 - Present  |  Independent Contractor) Tj
+0 -18 Td
+(• Developed 25+ web applications across B2B, B2C, Education, and eCommerce domains) Tj
+0 -12 Td
+(• Built scalable React/Next.js frontends with Node.js backends) Tj
+0 -12 Td
+(• Implemented secure payment gateways and user authentication systems) Tj
+0 -12 Td
+(• Optimized applications for performance, SEO, and mobile responsiveness) Tj
+0 -12 Td
+(• Managed complete project lifecycle from requirements to deployment) Tj
+0 -12 Td
+(• Maintained 98% client satisfaction rate with on-time project delivery) Tj
+
+0 -35 Td
+/F1 18 Tf
+0.2 0.2 0.2 rg
+(EDUCATION) Tj
+0 g
+50 180 50 1 re f
+0 -25 Td
+/F2 12 Tf
+(Bachelor of Technology \(B.Tech\)) Tj
+0 -15 Td
+/F3 11 Tf
+(AKTU University  |  Graduated: 2019) Tj
+
+0 -30 Td
+/F1 18 Tf
+0.2 0.2 0.2 rg
+(KEY ACHIEVEMENTS) Tj
+0 g
+50 120 50 1 re f
+0 -25 Td
+/F3 11 Tf
+(• 25+ Projects Successfully Delivered  •  15+ Happy Clients  •  1000+ Code Commits) Tj
+0 -12 Td
+(• Expertise in Modern Web Technologies  •  Strong Problem-Solving Skills) Tj
+0 -12 Td
+(• Independent Project Management  •  Client Communication Excellence) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000284 00000 n 
+0000003836 00000 n 
+0000003913 00000 n 
+0000003990 00000 n 
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+4063
+%%EOF

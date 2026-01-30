@@ -7,6 +7,7 @@ import Link from 'next/link'
 import portfolioData from '@/data/portfolio.json'
 import StatsCounter from '@/components/StatsCounter'
 import TechStack from '@/components/TechStack'
+import { forceDownloadResume } from '@/utils/downloadUtils'
 import ScheduleCall from '@/components/ScheduleCall'
 
 export default function Hero() {
@@ -86,13 +87,12 @@ export default function Hero() {
                 View Projects
               </Link>
               
-              <a
-                href={personal.resume}
-                download
+              <button
+                onClick={forceDownloadResume}
                 className="btn-secondary inline-flex items-center gap-2"
               >
                 <Download className="w-4 h-4" /> Resume
-              </a>
+              </button>
             </motion.div>
 
             {/* Social Links */}

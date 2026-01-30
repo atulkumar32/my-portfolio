@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { Download, MapPin, Calendar, GraduationCap } from 'lucide-react'
+import { forceDownloadResume } from '@/utils/downloadUtils'
 import portfolioData from '@/data/portfolio.json'
 
 export default function AboutHero() {
@@ -117,14 +118,13 @@ export default function AboutHero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.6 }}
             >
-              <a
-                href={personal.resume}
-                download
+              <button
+                onClick={forceDownloadResume}
                 className="btn-primary inline-flex items-center gap-2"
               >
                 <Download className="w-4 h-4" />
                 Download Resume
-              </a>
+              </button>
             </motion.div>
           </motion.div>
 
