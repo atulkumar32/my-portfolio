@@ -1,0 +1,140 @@
+{
+  "personal": {
+    "name": "Atul Maurya",
+    "title": "Full Stack Developer",
+    "subtitle": "Freelance Developer",
+    "experience": "2+",
+    "qualification": "B.Tech (AKTU)",
+    "graduationYear": "2019",
+    "email": "atulanace2015@gmail.com",
+    "phone": "+91 9084997180",
+    "location": "India",
+    "availability": "Available for freelance projects",
+    "summary": "Passionate Full Stack Developer with 2+ years of experience building scalable web applications. Specialized in React, Next.js, and Node.js with expertise in B2B, B2C, Education platforms, and eCommerce solutions.",
+    "resume": "/resume-atul-maurya.pdf",
+    "calendlyLink": "https://calendly.com/atulanace2015",
+    "googleCalendarLink": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2FER6aZkgAGgAVAR4A4A"
+  },
+  "social": {
+    "github": "https://github.com/atulmaurya",
+    "linkedin": "https://www.linkedin.com/in/atul-maurya-b49968338/",
+    "twitter": "https://twitter.com/atulmaurya_dev",
+    "whatsapp": "https://wa.me/919084997180"
+  },
+  "stats": [
+    { "label": "Years Experience", "value": "2+", "icon": "calendar" },
+    { "label": "Projects Completed", "value": "25+", "icon": "briefcase" },
+    { "label": "Happy Clients", "value": "15+", "icon": "users" },
+    { "label": "Code Commits", "value": "1000+", "icon": "git-branch" }
+  ],
+  "techStack": [
+    "React", "Next.js", "TypeScript", "Node.js", "MongoDB", "PostgreSQL", 
+    "Tailwind CSS", "Framer Motion", "Git", "AWS", "Vercel", "Docker"
+  ],
+  "skills": {
+    "frontend": [
+      { "name": "React", "level": 90 },
+      { "name": "Next.js", "level": 85 },
+      { "name": "TypeScript", "level": 80 },
+      { "name": "JavaScript", "level": 95 },
+      { "name": "HTML/CSS", "level": 95 },
+      { "name": "Tailwind CSS", "level": 90 },
+      { "name": "Framer Motion", "level": 75 }
+    ],
+    "backend": [
+      { "name": "Node.js", "level": 85 },
+      { "name": "Express.js", "level": 80 },
+      { "name": "REST APIs", "level": 90 },
+      { "name": "GraphQL", "level": 70 },
+      { "name": "Socket.io", "level": 75 }
+    ],
+    "database": [
+      { "name": "MongoDB", "level": 85 },
+      { "name": "PostgreSQL", "level": 80 },
+      { "name": "MySQL", "level": 75 },
+      { "name": "Redis", "level": 70 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 90 },
+      { "name": "Docker", "level": 75 },
+      { "name": "AWS", "level": 70 },
+      { "name": "Vercel", "level": 85 },
+      { "name": "Figma", "level": 80 }
+    ]
+  },
+  "services": [
+    {
+      "title": "Full Stack Development",
+      "description": "Complete web application development from frontend to backend with modern technologies.",
+      "features": ["React/Next.js Frontend", "Node.js Backend", "Database Design", "API Development"],
+      "price": "Starting at ₹50,000",
+      "icon": "code"
+    },
+    {
+      "title": "eCommerce Solutions",
+      "description": "Custom eCommerce platforms with payment integration and admin panels.",
+      "features": ["Shopping Cart", "Payment Gateway", "Admin Dashboard", "Inventory Management"],
+      "price": "Starting at ₹75,000",
+      "icon": "shopping-cart"
+    },
+    {
+      "title": "B2B/B2C Applications",
+      "description": "Business applications tailored for B2B and B2C requirements.",
+      "features": ["User Management", "Role-based Access", "Analytics Dashboard", "Third-party Integrations"],
+      "price": "Starting at ₹60,000",
+      "icon": "building"
+    },
+    {
+      "title": "Education Platforms",
+      "description": "Learning management systems and educational web applications.",
+      "features": ["Course Management", "Student Portal", "Progress Tracking", "Video Integration"],
+      "price": "Starting at ₹65,000",
+      "icon": "graduation-cap"
+    }
+  ],
+  "workProcess": [
+    {
+      "step": "01",
+      "title": "Plan",
+      "description": "Understanding requirements, creating wireframes, and planning the architecture."
+    },
+    {
+      "step": "02", 
+      "title": "Build",
+      "description": "Developing the application with clean code, best practices, and regular updates."
+    },
+    {
+      "step": "03",
+      "title": "Test",
+      "description": "Thorough testing across devices, browsers, and performance optimization."
+    },
+    {
+      "step": "04",
+      "title": "Deploy",
+      "description": "Deployment to production with monitoring, maintenance, and support."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rajesh Sharma",
+      "role": "CEO, TechStart Solutions",
+      "content": "Atul delivered an exceptional eCommerce platform that exceeded our expectations. His attention to detail and technical expertise is remarkable.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=faces"
+    },
+    {
+      "name": "Priya Patel",
+      "role": "Founder, EduLearn",
+      "content": "The education platform Atul built for us has transformed how we deliver online courses. Highly recommended for any educational project.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=faces"
+    },
+    {
+      "name": "Amit Singh",
+      "role": "Product Manager, B2B Corp",
+      "content": "Professional, reliable, and delivers quality work on time. Atul's B2B solution streamlined our entire business process.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=faces"
+    }
+  ]
+}
