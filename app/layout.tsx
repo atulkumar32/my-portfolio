@@ -9,6 +9,7 @@ import BackToTop from '@/components/BackToTop'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://atul-maurya-portfolio.netlify.app'),
   title: 'Atul Maurya - Full Stack Developer Portfolio',
   description: 'Freelance Full Stack Developer with 2+ years experience in B2B, B2C, Education platforms, and eCommerce websites. B.Tech graduate specializing in React, Next.js, Node.js development.',
   keywords: 'Full Stack Developer, React Developer, Next.js, Node.js, Freelancer, B2B, B2C, eCommerce, Education Platform',
@@ -17,6 +18,7 @@ export const metadata: Metadata = {
     title: 'Atul Maurya - Full Stack Developer',
     description: 'Professional Full Stack Developer Portfolio',
     type: 'website',
+    url: 'https://atul-maurya-portfolio.netlify.app',
   },
 }
 
