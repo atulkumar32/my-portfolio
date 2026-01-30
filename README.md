@@ -123,17 +123,42 @@ Add or modify projects in `data/projects.json`:
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with automatic builds on push
+### Netlify (Recommended)
 
-### Other Platforms
-The site can be deployed to any platform that supports Next.js:
-- Netlify
-- AWS Amplify
-- Railway
-- DigitalOcean App Platform
+This project is optimized for Netlify deployment with automatic builds and deployments.
+
+#### Quick Deploy to Netlify:
+
+1. **Push to GitHub:**
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/yourusername/atul-maurya-portfolio.git
+   git push -u origin main
+   ```
+
+2. **Deploy on Netlify:**
+   - Go to [netlify.com](https://netlify.com)
+   - Click "New site from Git"
+   - Connect your GitHub repository
+   - Build settings are auto-configured via `netlify.toml`
+   - Click "Deploy site"
+
+3. **Your site will be live at:** `https://your-site-name.netlify.app`
+
+#### Manual Deploy:
+```bash
+npm run build
+```
+Then drag and drop the `out` folder to Netlify.
+
+### Other Platforms:
+- **Vercel:** `npx vercel`
+- **GitHub Pages:** See `DEPLOYMENT.md` for detailed instructions
+
+For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## 📱 Browser Support
 

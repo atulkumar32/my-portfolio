@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer'
 import { useEffect, useState } from 'react'
 import { Calendar, Briefcase, Users, GitBranch } from 'lucide-react'
 
-const iconMap = {
+const iconMap: Record<string, any> = {
   calendar: Calendar,
   briefcase: Briefcase,
   users: Users,
@@ -15,7 +15,7 @@ const iconMap = {
 interface Stat {
   label: string
   value: string
-  icon: keyof typeof iconMap
+  icon: string
 }
 
 interface StatsCounterProps {
@@ -37,7 +37,7 @@ export default function StatsCounter({ stats }: StatsCounterProps) {
       className="grid grid-cols-2 md:grid-cols-4 gap-8"
     >
       {stats.map((stat, index) => {
-        const Icon = iconMap[stat.icon]
+        const Icon = iconMap[stat.icon] || Calendar
         return (
           <motion.div
             key={stat.label}
